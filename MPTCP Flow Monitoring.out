@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section.1}{Einleitung}{}% 1
+\BOOKMARK [1][-]{section.2}{Verwandte Arbeiten}{}% 2
+\BOOKMARK [1][-]{section.3}{Multipath TCP}{}% 3
+\BOOKMARK [1][-]{section.4}{bwNetFlow}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Das Flow Monitoring Protokoll Netflow v9}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Apache Kafka}{section.4}% 6
+\BOOKMARK [1][-]{section.5}{Gescheiterter Ansatz: Alternative Flow Monitoring Protokolle}{}% 7
+\BOOKMARK [1][-]{section.6}{Zweiter Ansatz: MPTCP Sniffer und MPTCP Aggregator}{}% 8
+\BOOKMARK [2][-]{subsection.6.1}{MPTCP Sniffer}{section.6}% 9
+\BOOKMARK [2][-]{subsection.6.2}{MPTCP Aggregator}{section.6}% 10
+\BOOKMARK [1][-]{section.7}{Deployment in der bwCloud}{}% 11
+\BOOKMARK [1][-]{section.8}{Fazit}{}% 12
+\BOOKMARK [1][-]{section.9}{Ausblick}{}% 13
+\BOOKMARK [2][-]{subsection.9.1}{Sampling}{section.9}% 14
+\BOOKMARK [2][-]{subsection.9.2}{Erweitern des MPTCP Sniffers}{section.9}% 15
+\BOOKMARK [2][-]{subsection.9.3}{bwNetFlow Komponenten anpassen}{section.9}% 16
+\BOOKMARK [2][-]{subsection.9.4}{Weitere Automatisierung des Deployments}{section.9}% 17
+\BOOKMARK [2][-]{subsection.9.5}{Weitere Analysen}{section.9}% 18
+\BOOKMARK [1][-]{section.10}{Anhang}{}% 19
+\BOOKMARK [2][-]{subsection.10.1}{Beispiel der Nachrichten}{section.10}% 20

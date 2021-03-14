@@ -1,0 +1,125 @@
+\begin{thebibliography}{10}
+
+\bibitem{gill2011understanding}
+Phillipa Gill, Navendu Jain, and Nachiappan Nagappan.
+\newblock Understanding network failures in data centers: measurement,
+  analysis, and implications.
+\newblock In {\em Proceedings of the ACM SIGCOMM 2011 Conference}, pages
+  350--361, 2011.
+
+\bibitem{ford2013rfc}
+Alan Ford, Costin Raiciu, Mark Handley, Olivier Bonaventure, and C~Paasch.
+\newblock Rfc 6824: Tcp extensions for multipath operation with multiple
+  addresses.
+\newblock {\em Internet Engineering Task Force}, 2013.
+
+\bibitem{lee2014network}
+Sihyung Lee, Kyriaki Levanti, and Hyong~S Kim.
+\newblock Network monitoring: Present and future.
+\newblock {\em Computer Networks}, 65:84--98, 2014.
+
+\bibitem{nagele2019bwnetflow}
+Daniel N{\"a}gele, Christopher~B Hauser, Leonard Bradatsch, and Stefan Wesner.
+\newblock bwnetflow: A customizable multi-tenant flow processing platform for
+  transit providers.
+\newblock In {\em 2019 IEEE/ACM Innovating the Network for Data-Intensive
+  Science (INDIS)}, pages 9--16. IEEE, 2019.
+
+\bibitem{bwcloud}
+bwcloud.
+\newblock \url{https://www.bw-cloud.org/}, 2020.
+
+\bibitem{raiciu2010data}
+Costin Raiciu, Christopher Pluntke, Sebastien Barre, Adam Greenhalgh, Damon
+  Wischik, and Mark Handley.
+\newblock Data center networking with multipath tcp.
+\newblock In {\em Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in
+  Networks}, pages 1--6, 2010.
+
+\bibitem{van2012multipathing}
+Ronald Van Der~Pol, Sander Boele, Freek Dijkstra, Artur Barczyk, Gerben van
+  Malenstein, Jim~Hao Chen, and Joe Mambretti.
+\newblock Multipathing with mptcp and openflow.
+\newblock In {\em 2012 SC Companion: High Performance Computing, Networking
+  Storage and Analysis}, pages 1617--1624. IEEE, 2012.
+
+\bibitem{belwue}
+Belwü - landeshochschulnetz baden-württemberg.
+\newblock \url{https://www.belwue.de/}, 2021.
+
+\bibitem{kafkaDoc}
+Apache kafka documentation.
+\newblock \url{https://kafka.apache.org/documentation/}, 2021.
+
+\bibitem{version9flow}
+Inc Cisco~Systems.
+\newblock Flow\-record format.
+\newblock \url{http://www. cisco.
+  com/en/US/technologies/tk648/tk362/technologies\_white\_
+  paper09186a00800a3db9\_ps6601\_Products\_White\_ Paper. html}, 2009.
+
+\bibitem{netflowconfig}
+Inc Cisco~Systems.
+\newblock Netflow configuration guide, cisco ios release 15m\&t.
+\newblock
+  \url{https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/netflow/configuration/15-mt/nf-15-mt-book.pdf},
+  2016.
+
+\bibitem{li2013survey}
+Bingdong Li, Jeff Springer, George Bebis, and Mehmet~Hadi Gunes.
+\newblock A survey of network flow applications.
+\newblock {\em Journal of Network and Computer Applications}, 36(2):567--581,
+  2013.
+
+\bibitem{kreps2011kafka}
+Jay Kreps, Neha Narkhede, Jun Rao, et~al.
+\newblock Kafka: A distributed messaging system for log processing.
+\newblock In {\em Proceedings of the NetDB}, volume~11, pages 1--7, 2011.
+
+\bibitem{phaal2001rfc3176}
+Peter Phaal, Sonia Panchen, and Neil McKee.
+\newblock Rfc3176: Inmon corporation's sflow: A method for monitoring traffic
+  in switched and routed networks, 2001.
+
+\bibitem{claise2013specification}
+Benoit Claise, Brian Trammell, and Paul Aitken.
+\newblock Specification of the ip flow information export (ipfix) protocol for
+  the exchange of flow information.
+\newblock {\em RFC 7011 (Internet Standard), Internet Engineering Task Force},
+  pages 2070--1721, 2013.
+
+\bibitem{pfaff2015design}
+Ben Pfaff, Justin Pettit, Teemu Koponen, Ethan Jackson, Andy Zhou, Jarno
+  Rajahalme, Jesse Gross, Alex Wang, Joe Stringer, Pravin Shelar, et~al.
+\newblock The design and implementation of open vswitch.
+\newblock In {\em 12th $\{$USENIX$\}$ Symposium on Networked Systems Design and
+  Implementation ($\{$NSDI$\}$ 15)}, pages 117--130, 2015.
+
+\bibitem{manpcap}
+Man page of pcap.
+\newblock \url{https://www.tcpdump.org/manpages/pcap.3pcap.html}, 2020.
+
+\bibitem{lopez2016performance}
+Martin~Andreoni Lopez, Antonio Gonzalez~Pastana Lobato, and Otto Carlos~MB
+  Duarte.
+\newblock A performance comparison of open-source stream processing platforms.
+\newblock In {\em 2016 IEEE Global Communications Conference (GLOBECOM)}, pages
+  1--6. IEEE, 2016.
+
+\bibitem{isah2019survey}
+Haruna Isah, Tariq Abughofa, Sazia Mahfuz, Dharmitha Ajerla, Farhana
+  Zulkernine, and Shahzad Khan.
+\newblock A survey of distributed data stream processing frameworks.
+\newblock {\em IEEE Access}, 7:154300--154316, 2019.
+
+\bibitem{kafkastreams}
+Kafka streams documentation.
+\newblock \url{https://kafka.apache.org/documentation/streams/}, 2020.
+
+\bibitem{rosado2014overview}
+Tiago Rosado and Jorge Bernardino.
+\newblock An overview of openstack architecture.
+\newblock In {\em Proceedings of the 18th International Database Engineering \&
+  Applications Symposium}, pages 366--367, 2014.
+
+\end{thebibliography}

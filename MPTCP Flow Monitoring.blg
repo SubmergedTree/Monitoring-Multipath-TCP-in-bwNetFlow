@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: MPTCP Flow Monitoring.aux
+The style file: unsrt.bst
+Database file #1: quellen.bib
+You've used 21 entries,
+            1791 wiz_defined-function locations,
+            553 strings with 7398 characters,
+and the built_in function-call counts, 5324 in all, are:
+= -- 475
+> -- 233
+< -- 10
++ -- 87
+- -- 66
+* -- 302
+:= -- 751
+add.period$ -- 60
+call.type$ -- 21
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 249
+empty$ -- 549
+format.name$ -- 66
+if$ -- 1261
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 13
+newline$ -- 102
+num.names$ -- 16
+pop$ -- 110
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 162
+stack$ -- 0
+substring$ -- 330
+swap$ -- 99
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 49
+width$ -- 23
+write$ -- 216
